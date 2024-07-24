@@ -12,3 +12,10 @@ h1 {
   margin-block-start: 22px;
   margin-block-end: 22px;
 }
+footer {
+  text-align: center;
+}
+footer a {
+  color: green;
+  margin: 0 10px;
+}
